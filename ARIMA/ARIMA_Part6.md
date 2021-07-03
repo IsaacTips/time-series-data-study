@@ -13,7 +13,8 @@ ARIMA 모델에 대한 예측 구간에 대한 가정
 
 ## Partial autocorrelation function (PACF)
 * PACF는 두 변수사이의 correlation.
-* 두개 외의 다른 변수까지 고려한 correlation.
+* 두개 외의 다른 변수까지 고려한 correlation.<br>
+[ACF와 PACF 비교](https://direction-f.tistory.com/65)
 
 # 인유([willowlkim8](https://github.com/willowkim8))
 
